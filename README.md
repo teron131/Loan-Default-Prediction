@@ -2,7 +2,7 @@
 
 ## Overview
 
-This notebook offers a solution for the Coursera Data Science Coding Challenge, which revolves around predicting loan defaults. The structured approach involves understanding the provided datasets, preprocessing the data, engineering features, and implementing machine learning models.
+This notebook offers a solution for the Coursera [Data Science Coding Challenge: Loan Default Prediction](https://www.coursera.org/projects/data-science-coding-challenge-loan-default-prediction), which revolves around predicting loan defaults. The structured approach involves understanding the provided datasets, preprocessing the data, engineering features, and implementing machine learning models.
 
 ## Achieved Results
 
@@ -35,8 +35,6 @@ Using the methodologies and models described in this notebook, an AUC score of 0
    - Steps to finalize and submit the work on Coursera.
 
 ## Enrollment and Submission on Coursera
-
-To enroll and access the project on Coursera: [Data Science Coding Challenge: Loan Default Prediction](https://www.coursera.org/projects/data-science-coding-challenge-loan-default-prediction).
 
 Unfortunately, the test data cannot be accessed. To test the performance:
 1. Enroll in the project using the above link.
