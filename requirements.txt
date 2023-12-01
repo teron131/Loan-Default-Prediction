@@ -1,7 +1,7 @@
 numpy
 pandas
-sklearn
+scikit-learn
 matplotlib
-seaborn=0.12.2
+seaborn==0.12.2
 imblearn
 xgboost
